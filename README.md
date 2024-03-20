@@ -1,5 +1,7 @@
 # NAMMA BUS
-
+<p align="center">
+  <img src="assets/namma_bus_logo.png" alt="NAMMA BUS Logo">
+</p>
 ## Description
 
 "NAMMA BUS" is a Flutter mobile application designed specifically for the students and faculty of NMAM Institute of Technology (NMAMIT) to simplify the process of catching buses within and around the campus. The app provides real-time information about bus routes, schedules, and availability, ensuring users never miss a bus again.
